@@ -86,6 +86,7 @@ var finances = [
     ['Jan-2017', 138230],
     ['Feb-2017', 671099],
   ];
+  
   // Initialize variables to track the metrics
   var totalMonths = finances.length;
   var totalAmount = 0;

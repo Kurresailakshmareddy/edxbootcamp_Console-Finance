@@ -1,4 +1,4 @@
-# edxbootcamp_Module4challege4_Console-Finance
+# Edxbootcamp_Module4challege4_Console-Finance
 
 ## Description
 
@@ -35,10 +35,9 @@ N/A
 ![alt text](images/Output.png)
 ```
 
-
 ## Link to deployed application
 
-
+(https://kurresailakshmareddy.github.io/edxbootcamp_Console-Finance/)
 
 ## License
 
